@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1d8dce04ce7374a4c8bdea496bebac9b
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21088
+  packageName: OpenCV for Unity
+  packageVersion: 2.5.4
+  assetPath: Assets/OpenCVForUnity/Examples/MainModules/dnn/LightweightPoseEstimationExample/LightweightPoseEstimationWebCamExample.unity
+  uploadId: 578435

@@ -1,0 +1,57 @@
+{
+    "blackThreshold": 0.3499999940395355,
+    "redRange_head": {
+        "x": 0,
+        "y": 11
+    },
+    "redRange_end": {
+        "x": 120,
+        "y": 180
+    },
+    "blueRange": {
+        "x": 60,
+        "y": 120
+    },
+    "yellowRange": {
+        "x": 11,
+        "y": 60
+    },
+    "maxRed": 3,
+    "enterRedCheckDelays": 2.0,
+    "leaveRedCheckDelays": 2.0,
+    "fullscreen": true,
+    "markersPosition": [
+        {
+            "name": "TopLeft",
+            "position": {
+                "x": -206.49993896484376,
+                "y": 305.50006103515627,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "TopRight",
+            "position": {
+                "x": 253.49998474121095,
+                "y": 322.50006103515627,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "BottomLeft",
+            "position": {
+                "x": -247.0000457763672,
+                "y": -296.0,
+                "z": 0.0
+            }
+        },
+        {
+            "name": "BottomRight",
+            "position": {
+                "x": 324.50006103515627,
+                "y": -275.5,
+                "z": 0.0
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc38c3e595db5554695c9bdad3814573
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21088
+  packageName: OpenCV for Unity
+  packageVersion: 2.5.4
+  assetPath: Assets/OpenCVForUnity/Examples/MainModules/dnn/YOLOv7ObjectDetectionExample/YOLOv7ObjectDetectionExample.unity
+  uploadId: 578435

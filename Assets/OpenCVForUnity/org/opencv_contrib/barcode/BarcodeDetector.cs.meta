@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b1daaaeb70660cd428bfa1a059518511
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21088
+  packageName: OpenCV for Unity
+  packageVersion: 2.5.4
+  assetPath: Assets/OpenCVForUnity/org/opencv_contrib/barcode/BarcodeDetector.cs
+  uploadId: 578435
